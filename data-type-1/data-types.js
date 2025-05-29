@@ -3,7 +3,7 @@ const age = 31
 const bigInt = -10n
 const carOwner = true
 const money = null
-const profession = undefined
+let profession = undefined
 const user = {
     name: 'Andrey',
     age: 31,
